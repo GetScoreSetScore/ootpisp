@@ -1,0 +1,14 @@
+D:\University\2course\4semester\labs\OOTPiSP\laba1.2\laba\laba\bin\Debug\laba.exe
+D:\University\2course\4semester\labs\OOTPiSP\laba1.2\laba\laba\bin\Debug\laba.pdb
+D:\University\2course\4semester\labs\OOTPiSP\laba1.2\laba\laba\obj\x86\Debug\laba.Form1.resources
+D:\University\2course\4semester\labs\OOTPiSP\laba1.2\laba\laba\obj\x86\Debug\laba.Properties.Resources.resources
+D:\University\2course\4semester\labs\OOTPiSP\laba1.2\laba\laba\obj\x86\Debug\laba.csproj.GenerateResource.Cache
+D:\University\2course\4semester\labs\OOTPiSP\laba1.2\laba\laba\obj\x86\Debug\laba.exe
+D:\University\2course\4semester\labs\OOTPiSP\laba1.2\laba\laba\obj\x86\Debug\laba.pdb
+D:\University\2course\4semester\labs\OOTPiSP\laba2\laba\laba\obj\x86\Debug\laba.exe
+D:\University\2course\4semester\labs\OOTPiSP\laba2\laba\laba\obj\x86\Debug\laba.pdb
+D:\University\2course\4semester\labs\OOTPiSP\laba2\laba\laba\obj\x86\Debug\laba.Form1.resources
+D:\University\2course\4semester\labs\OOTPiSP\laba2\laba\laba\obj\x86\Debug\laba.Properties.Resources.resources
+D:\University\2course\4semester\labs\OOTPiSP\laba2\laba\laba\obj\x86\Debug\laba.csproj.GenerateResource.Cache
+D:\University\2course\4semester\labs\OOTPiSP\laba2\laba\laba\bin\Debug\laba.exe
+D:\University\2course\4semester\labs\OOTPiSP\laba2\laba\laba\bin\Debug\laba.pdb
